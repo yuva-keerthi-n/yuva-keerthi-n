@@ -28,3 +28,6 @@ Python (pandas, data analysis) · TypeScript/JavaScript · HTML/CSS, GSAP · SQL
 ### Right now
 - 👯 Looking to collaborate on data/analytics projects, or anything creative-web with real motion design
 - 🤔 Looking for help with structuring ML projects the way production teams actually do it
+  
+### Reach me 
+[Email](mailto:yuvakeerthinakarakanti@gmail.com)
