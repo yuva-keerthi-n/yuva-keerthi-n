@@ -1,25 +1,11 @@
-## Hi there, This is Yuva Keerthi 👋
+## Hi there, I'm Yuva Keerthi 👋
 
-<!--
-**yuva-keerthi-n/yuva-keerthi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year B.Tech student. I build things that have a reason to exist — sometimes that reason is "I wanted to understand this dataset," sometimes it's "I wanted to see if this idea could look good on screen." Not locked into one lane yet, and not pretending to be.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm 2nd year B.Tech student. I build things that have a reason to exist — sometimes that reason is "I wanted to understand this dataset," sometimes it's "I wanted to see if this idea could look good on screen." Not locked into one lane yet, and not pretending to be.
-
-**Currently:** working through data analysis / ML fundamentals,and picking up frontend/animation work on the side to stay sharp on building UI that doesn't feel generic.
+**Currently:** working through data analysis / ML fundamentals, and picking up frontend/animation work on the side to stay sharp on building UI that doesn't feel generic.
 
 ---
+
 ### Projects worth a look
 
 **[netflix-customer-churn-analysis](https://github.com/yuva-keerthi-n/netflix-customer-churn-analysis)**
@@ -35,9 +21,10 @@ A TypeScript tool for importing and validating messy CSVs. Built because manual 
 A scroll-driven storytelling site with GSAP — pure creative/technical exercise in cinematic transitions and scroll-based animation.
 
 ---
+
 ### Stack
 Python (pandas, data analysis) · TypeScript/JavaScript · HTML/CSS, GSAP · SQL, Power BI · Jupyter
 
-- 🌱 I'm currently learning ML fundamentals and getting sharper at data pipelines
-- 👯 I'm looking to collaborate on data/analytics projects or anything creative-web with real motion design
-- 🤔 I'm looking for help with structuring ML projects the way production teams actually do it
+### Right now
+- 👯 Looking to collaborate on data/analytics projects, or anything creative-web with real motion design
+- 🤔 Looking for help with structuring ML projects the way production teams actually do it
