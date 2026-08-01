@@ -1,4 +1,4 @@
-## Hi there, I'm Yuva Keerthi 👋
+## Hi there, I'm Yuva Keerthii 👋
 
 I'm a 2nd year B.Tech student. I build things that have a reason to exist — sometimes that reason is "I wanted to understand this dataset," sometimes it's "I wanted to see if this idea could look good on screen." Not locked into one lane yet, and not pretending to be.
 
